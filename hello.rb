@@ -2,3 +2,4 @@
 name  = ARGV.first || "Brendan"
 puts "Hello, #{name}! Thank you!"
 puts "Testing merge"
+puts "Hello me!"
